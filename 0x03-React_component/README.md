@@ -1,5 +1,4 @@
- 0x03-React_component
-Sure, here's a brief overview of React components in about 30 lines:
+0x03-React_component
 
 React components are the building blocks of React applications. They are reusable pieces of UI that manage their own state and can be composed to build complex UIs.
 
